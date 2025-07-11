@@ -27,20 +27,20 @@
     </PreferenceCategory>
 
     <PreferenceCategory
-        android:title="\nMISCELLANEOUS"
+        android:title="@string/oneplusother"
         android:layout="@layout/preference_category_custom">
         <SwitchPreference
             android:layout="@layout/preference_switch_custom"
             android:defaultValue="false"
             android:key="nubia_touchscreen_game_mode"
-            android:title="Enable game mode"
-            app:summaryOn="Auto stop fan is disabled" />
+            android:title="@string/gamemode_oppo"
+            app:summaryOn="@string/nubsumary" />
         <SwitchPreference
             android:layout="@layout/preference_switch_custom"
             android:defaultValue="false"
             android:key="nubia_shoulder_btn"
-            android:title="Enable shoulder buttons"
-            app:summary="Shoulder buttons/triggers" />
+            android:title="@string/shoulerbuttom"
+            app:summary="@string/shoulerbuttom" />
         <SwitchPreference
             android:layout="@layout/preference_switch_custom"
             android:defaultValue="false"
