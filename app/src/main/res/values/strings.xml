@@ -177,13 +177,15 @@
     
 <!-- Xiaomi -->
     <string name="dt2w">Enable DT2W</string>
-
-    <!-- Nubia -->
+    
+   <!-- Nubia -->
     <string name="dt2nubia_summary">Double tap to wake up</string>
     <string name="nubiahight_touch">Enable high touch sample rate</string>
     <string name="nubiatouch_summary">Drain more battery.</string>
     <string name="hightouch_gloves">Enable high touch sensitivity</string>
     <string name="hightouchsummary">While using gloves</string>
+    <string name="nubsumary">Auto stop fan is disabled</string>
+    <string name="shoulerbuttom">Enable shoulder buttons</string>
 
 <!-- Sys UI -->
     <string name="sysui_restart">Requires SystemUI restart</string>
